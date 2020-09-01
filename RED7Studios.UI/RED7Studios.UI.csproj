@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2B12BD1B-9601-4B60-9515-F9A756D10753}</ProjectGuid>
+    <ProjectGuid>{17EB3E5A-4488-4C06-8AC9-4031A909202D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>RED7Studios.UI</RootNamespace>
     <AssemblyName>RED7StudiosUI</AssemblyName>

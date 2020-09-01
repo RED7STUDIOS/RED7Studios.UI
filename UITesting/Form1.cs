@@ -1,4 +1,4 @@
-﻿using ModernUITest.Properties;
+﻿using UITesting.Properties;
 using RED7Studios.UI;
 using RED7Studios.UI.Controls;
 using RED7Studios.UI.Forms;
@@ -16,7 +16,7 @@ namespace ModernUITest
         {
             InitializeComponent();
 
-          //  this.ColorScheme = ColorScheme.CreateSimpleColorScheme(ColorTranslator.FromHtml("#2D2D30"));
+            //this.ColorScheme = ColorScheme.CreateSimpleColorScheme(ColorTranslator.FromHtml("#2D2D30"));
             var btn2 = new ModernTitlebarButton
             {
                 Text = "2"
@@ -70,5 +70,9 @@ namespace ModernUITest
             }
         }
 
+        private void modernButton2_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

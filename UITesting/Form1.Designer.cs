@@ -54,6 +54,7 @@
             this.modernButton2.TabIndex = 9;
             this.modernButton2.Text = "modernButton1";
             this.modernButton2.UseVisualStyleBackColor = true;
+            this.modernButton2.Click += new System.EventHandler(this.modernButton2_Click);
             // 
             // sidebarControl1
             // 
