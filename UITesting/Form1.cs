@@ -74,5 +74,10 @@ namespace ModernUITest
         {
 
         }
+
+        private void appBar1_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

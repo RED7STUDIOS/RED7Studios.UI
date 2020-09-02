@@ -30,7 +30,6 @@
         {
             this.modernButton1 = new RED7Studios.UI.Controls.ModernButton();
             this.modernButton2 = new RED7Studios.UI.Controls.ModernButton();
-            this.sidebarControl1 = new RED7Studios.UI.Controls.SidebarControl();
             this.tilePanelReborn1 = new RED7Studios.UI.Controls.TilePanelReborn();
             this.appBar1 = new RED7Studios.UI.Controls.AppBar();
             this.SuspendLayout();
@@ -55,19 +54,6 @@
             this.modernButton2.Text = "modernButton1";
             this.modernButton2.UseVisualStyleBackColor = true;
             this.modernButton2.Click += new System.EventHandler(this.modernButton2_Click);
-            // 
-            // sidebarControl1
-            // 
-            this.sidebarControl1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.sidebarControl1.IsClosed = false;
-            this.sidebarControl1.Location = new System.Drawing.Point(1, 83);
-            this.sidebarControl1.Name = "sidebarControl1";
-            this.sidebarControl1.Size = new System.Drawing.Size(210, 334);
-            this.sidebarControl1.TabIndex = 10;
-            this.sidebarControl1.Text = "sidebarControl1";
-            this.sidebarControl1.TopBarColor = System.Drawing.Color.FromArgb(((int)(((byte)(189)))), ((int)(((byte)(189)))), ((int)(((byte)(189)))));
-            this.sidebarControl1.TopBarSize = 100;
-            this.sidebarControl1.TopBarSpacing = 32;
             // 
             // tilePanelReborn1
             // 
@@ -96,6 +82,7 @@
             this.appBar1.Text = "Form1";
             this.appBar1.TextFont = new System.Drawing.Font("Segoe UI", 14F);
             this.appBar1.ToolTip = null;
+            this.appBar1.Click += new System.EventHandler(this.appBar1_Click);
             // 
             // Form1
             // 
@@ -108,7 +95,6 @@
             this.ColorScheme.PrimaryColor = System.Drawing.Color.FromArgb(((int)(((byte)(2)))), ((int)(((byte)(119)))), ((int)(((byte)(189)))));
             this.ColorScheme.SecondaryColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(75)))), ((int)(((byte)(120)))));
             this.Controls.Add(this.tilePanelReborn1);
-            this.Controls.Add(this.sidebarControl1);
             this.Controls.Add(this.modernButton2);
             this.Controls.Add(this.modernButton1);
             this.Controls.Add(this.appBar1);
@@ -123,7 +109,6 @@
         #endregion
         private RED7Studios.UI.Controls.ModernButton modernButton1;
         private RED7Studios.UI.Controls.ModernButton modernButton2;
-        private RED7Studios.UI.Controls.SidebarControl sidebarControl1;
         private RED7Studios.UI.Controls.TilePanelReborn tilePanelReborn1;
         private RED7Studios.UI.Controls.AppBar appBar1;
     }
