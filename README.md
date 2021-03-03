@@ -1,2 +1,2 @@
 # RED7Studios UI
-UI for licensed programs by RED7Studios.
+UI library provided with RED7 STUDIOS applications and used for EzCar plugins.
