@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RED7Studios.UI", "RED7Studios.UI\RED7Studios.UI.csproj", "{17EB3E5A-4488-4C06-8AC9-4031A909202D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITesting", "UITesting\UITesting.csproj", "{E874F220-2A5A-4038-BD42-302ED1EA6A48}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{17EB3E5A-4488-4C06-8AC9-4031A909202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17EB3E5A-4488-4C06-8AC9-4031A909202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17EB3E5A-4488-4C06-8AC9-4031A909202D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E874F220-2A5A-4038-BD42-302ED1EA6A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E874F220-2A5A-4038-BD42-302ED1EA6A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E874F220-2A5A-4038-BD42-302ED1EA6A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E874F220-2A5A-4038-BD42-302ED1EA6A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

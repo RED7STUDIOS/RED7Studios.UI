@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RED7Studios UI")]
-[assembly: AssemblyDescription("The UI for programs licensed by RED7 Studios.")]
+[assembly: AssemblyDescription("UI library provided with RED7 STUDIOS applications and used for EzCar plugins.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RED7Studios")]
 [assembly: AssemblyProduct("RED7Studios UI")]
-[assembly: AssemblyCopyright("Copyright © RED7Studios 2020")]
+[assembly: AssemblyCopyright("GNU General Public License")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

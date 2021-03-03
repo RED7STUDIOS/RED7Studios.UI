@@ -1,4 +1,12 @@
-﻿using System.Drawing;
+﻿/*
+ * RED7 STUDIOS UI by Mitchell (RED7 STUDIOS)
+ * GNU General Public License
+ * LICENSE: https://github.com/RED7Studios/RED7Studios.UI/blob/master/LICENSE
+ * 
+ * Original File by NickAc.
+*/
+
+using System.Drawing;
 
 namespace RED7Studios.UI.Objects
 {

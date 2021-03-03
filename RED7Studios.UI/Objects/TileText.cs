@@ -1,9 +1,11 @@
 ﻿/*
+ * RED7 STUDIOS UI by Mitchell (RED7 STUDIOS)
+ * GNU General Public License
+ * LICENSE: https://github.com/RED7Studios/RED7Studios.UI/blob/master/LICENSE
  * 
- * Software Criado por NickAc
- * Ficheiro Criado em 16/11/2016 às 06:58 PM
- * 
- */
+ * Original File by NickAc.
+*/
+
 using System;
 using System.ComponentModel;
 using System.ComponentModel.Design.Serialization;
